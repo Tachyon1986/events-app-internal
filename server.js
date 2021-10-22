@@ -1,5 +1,7 @@
 'use strict';
 
+//Automation test for GCloud Build
+
 // bring in firestore
 const Firestore = require("@google-cloud/firestore");
 
